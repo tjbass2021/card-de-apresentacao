@@ -1,1 +1,3 @@
-# card-de-apresenta-o
+# Card de Apresentação
+
+Projeto de um simples card de apresentação.

@@ -5,12 +5,10 @@
 }
 
 body{
-    /* background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
-    font-family: Arial;
 
-    background: rgb(215,121,255);
-background: radial-gradient(circle, rgba(215,121,255,1) 0%, rgba(103,171,254,1) 100%);
+    font-family: Arial;
+    background-color: #146589;
+
 }
 
 .container{
@@ -30,21 +28,16 @@ background: radial-gradient(circle, rgba(215,121,255,1) 0%, rgba(103,171,254,1) 
     display: flex;
     flex-direction: column;
     width: 350px;
-    /* background-color: #1a2129; */
     align-items: center;
     padding: 40px 20px;
     border-radius: 10px;
     border-right: 1px solid #afe2e4;
-    color: black;
+    color: #afe2e4;
     box-shadow: -7px 10px 5px 0px rgba(0,0,0,0.75);
 -webkit-box-shadow: -7px 10px 5px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: -7px 10px 5px 0px rgba(0,0,0,0.75);
 
-/* background: rgb(246,235,240);
-background: radial-gradient(circle, rgba(246,235,240,1) 0%, rgba(202,220,242,1) 100%); */
-
-background: rgb(252,246,255);
-background: radial-gradient(circle, rgba(252,246,255,1) 0%, rgba(163,205,255,1) 100%);
+background-color: #12394e;
 
 }
 
@@ -59,19 +52,16 @@ background: radial-gradient(circle, rgba(252,246,255,1) 0%, rgba(163,205,255,1) 
 }
 
 .card nav ul li a{
-    /* background-color:#7fb3b1; */
     color: black;
     text-decoration: none;
     padding: 10px 30px;
     border-radius: 15px;
 
-    background: rgb(215,121,255);
-background: radial-gradient(circle, rgba(215,121,255,1) 0%, rgba(103,171,254,1) 100%);
-
+    background-color: #1fa6cc;
 }
 
 .card nav ul li a:hover{
-    background-color: #afe2e4;
+    background-color: #20dbd8;
     color: black;
     padding: 10px 40px;
     box-shadow: -7px 10px 5px 0px rgba(0,0,0,0.75);

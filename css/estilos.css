@@ -7,7 +7,8 @@
 body{
 
     font-family: Arial;
-    background-color: #146589;
+    /* background-color: #146589; */
+    background-color: #111820;
 
 }
 
@@ -18,26 +19,27 @@ body{
     height: 100%;
     justify-content: center;
     align-items: center;
-    /* background-color: #5b7c83; */
+    
     
 }
 
 .card{
     text-align: center;
-    margin: 80px auto;
+    margin: 50px auto;
     display: flex;
     flex-direction: column;
     width: 350px;
     align-items: center;
     padding: 40px 20px;
     border-radius: 10px;
-    border-right: 1px solid #afe2e4;
-    color: #afe2e4;
+    /* border: 1px solid black; */
+    color: white;
     box-shadow: -7px 10px 5px 0px rgba(0,0,0,0.75);
 -webkit-box-shadow: -7px 10px 5px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: -7px 10px 5px 0px rgba(0,0,0,0.75);
 
-background-color: #12394e;
+/* background-color: #12394e; */
+background-color: #1d2936;
 
 }
 
@@ -52,7 +54,7 @@ background-color: #12394e;
 }
 
 .card nav ul li a{
-    color: black;
+    color: white;
     text-decoration: none;
     padding: 10px 30px;
     border-radius: 15px;
@@ -62,7 +64,7 @@ background-color: #12394e;
 
 .card nav ul li a:hover{
     background-color: #20dbd8;
-    color: black;
+    color: rgb(44, 44, 117);
     padding: 10px 40px;
     box-shadow: -7px 10px 5px 0px rgba(0,0,0,0.75);
 -webkit-box-shadow: -7px 10px 5px 0px rgba(0,0,0,0.75);

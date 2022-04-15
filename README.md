@@ -19,6 +19,10 @@ Os links mudam seu estado conforme o cursos do mouse passa por cima, permitindo 
 
 <img src="img/card-exemplo.gif">
 
+## Experimente o card
+
+[Experimente o card clicando aqui](https://tjbass2021.github.io/card-de-apresentacao/)
+
 ## Considerações
 
 O projeto possui um conceito simples, como também é de fácil implementação, porém, bastante funcional.

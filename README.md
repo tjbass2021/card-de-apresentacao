@@ -15,7 +15,7 @@ O projeto é responsivo, tendo a possibilidade de ser visualizado de forma agrad
 <img src="img/card-apresentacao-mobile.png">
 
 
-Os links mudam seu estado conforme o cursos do mouse passa por cima, permitindo identificar melhor qual elemento estará sendo clicado.
+Os links mudam seu estado conforme o cursor do mouse passa por cima, permitindo identificar melhor qual elemento estará sendo clicado.
 
 <img src="img/card-exemplo.gif">
 
